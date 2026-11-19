@@ -20,3 +20,19 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 | 657 | [Robot Return to Origin](leetcode/week-1/0657-robot-return-to-origin) |
 | 1431 | [Kids With the Greatest Number of Candies](leetcode/week-1/1431-kids-with-the-greatest-number-of-candies) |
 | 1662 | [Check If Two String Arrays are Equivalent](leetcode/week-1/1662-check-if-two-string-arrays-are-equivalent) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+<!---LeetCode Topics End-->
