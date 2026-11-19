@@ -1,33 +1,22 @@
-// LeetCode 20 - Valid Parentheses
-// Status: draft, chua Accepted
-#include <stdbool.h>
-#include <stdio.h>
-
 bool isValid(char* s) {
-    int k=0;
-    char temp[1000]={0};
-    for(int i=0;s[i]!='\0';i++){
-        if(s[i]=='('||s[i]=='{'||s[i]=='['){
-            temp[i]=s[i];
-            k+=i;
-        }
-        for(int j=i;j<k;j++){
-            if(s[j]==')'){
-                temp[j]='\0';
-                k--;
-            }
-            if(s[j]=='}'){
-                temp[j]='\0';
-                k--;
-            }
-            if(s[j]==']'){
-                temp[j]='\0';
-                k--;
-            }
+    char temp[10000];    
+    int k = 0;            
+    for (int i = 0; s[i] != '\0'; i++) {
+        if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+            temp[k] = s[i];
+            k++;
+        } else {
+            char need;
+            if (s[i] == ')') need = '(';
+            else if (s[i] == ']') need = '[';
+            else need = '{';
+
+            if (k == 0 || temp[k-1] != need) return false;
+
+            k--;
         }
     }
-    for(int i=0;i<k;i++){
-        printf("%c", temp[i]);
-    }
+
+    if (k != 0) return false;
     return true;
 }

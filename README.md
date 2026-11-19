@@ -26,13 +26,13 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0020-valid-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
