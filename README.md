@@ -38,9 +38,9 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0643-maximum-average-subarray-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
