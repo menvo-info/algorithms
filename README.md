@@ -26,6 +26,7 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/menvo-info/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -42,5 +43,10 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/menvo-info/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0643-maximum-average-subarray-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/menvo-info/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
