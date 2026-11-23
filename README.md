@@ -23,6 +23,12 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 | 1431 | [Kids With the Greatest Number of Candies](leetcode/week-1/1431-kids-with-the-greatest-number-of-candies) |
 | 1662 | [Check If Two String Arrays are Equivalent](leetcode/week-1/1662-check-if-two-string-arrays-are-equivalent) |
 
+### LeetCode – week 2
+
+| # | Problem |
+|---|---|
+| 268 | [Missing Number](leetcode/week-2/0268-missing-number) |
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
