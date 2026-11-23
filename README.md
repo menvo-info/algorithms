@@ -41,6 +41,7 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0643-maximum-average-subarray-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -51,4 +52,21 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
