@@ -48,6 +48,7 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-2/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/menvo-info/algorithms/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-1/0643-maximum-average-subarray-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -75,4 +76,13 @@ Algorithm practice in C/C++: LeetCode solutions and programming fundamentals.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/menvo-info/algorithms/tree/main/leetcode/week-2/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/menvo-info/algorithms/tree/main/0561-array-partition/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/menvo-info/algorithms/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/menvo-info/algorithms/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
